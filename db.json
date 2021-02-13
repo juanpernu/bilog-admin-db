@@ -5,10 +5,8 @@
          "thumbnail":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
          "title":"Los 7 Estándares de Normatividad para Odontólogos",
          "text":"Como parte de la alianza con la Sociedad Colombiana de Ortodoncia, realizamos un webinar del tema para afianzar en esta área al odontólogo colombiano.",
-         "authors":{
-            "name":"Bilog",
-            "date":"13/02/2021"
-         },
+         "authors": "Bilog",
+         "date":"13/02/2021",
          "content":{
             "cover_image":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
             "text_content":[
@@ -41,10 +39,8 @@
          "thumbnail":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
          "title":"Posteo numero dos mockeado en github",
          "text":"Como parte de la alianza con la Sociedad Colombiana de Ortodoncia, realizamos un webinar del tema para afianzar en esta área al odontólogo colombiano.",
-         "authors":{
-            "name":"Bilog",
-            "date":"13/02/2021"
-         },
+         "authors": "Bilog",
+         "date":"13/02/2021",
          "content":{
             "cover_image":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
             "text_content":[
@@ -77,10 +73,8 @@
          "thumbnail":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
          "title":"Posteo numero tres super mockeado nashe",
          "text":"Como parte de la alianza con la Sociedad Colombiana de Ortodoncia, realizamos un webinar del tema para afianzar en esta área al odontólogo colombiano.",
-         "authors":{
-            "name":"Bilog",
-            "date":"13/02/2021"
-         },
+         "authors": "Bilog",
+         "date":"13/02/2021",
          "content":{
             "cover_image":"https://uploads-ssl.webflow.com/5857d4567e4f29f1046cace7/60243a2763e4f08c99c56915_1700%20(2).jpg",
             "text_content":[
