@@ -3,9 +3,14 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "delfina"
+    },
+    {
+      "id": 3,
+      "title": "vecchietti"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
